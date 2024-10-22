@@ -1,0 +1,22 @@
+{
+  "display": {
+    "name": "Test-Chain",
+    "description": "A fake chain that's all about testing.",
+    "links": {
+      "logo": "https://example.com/myspace-logo.png",
+      "discord": "https://discord.gg/myspace",
+      "email": "contact@myspace.network",
+      "github": "https://github.com/myspace-network",
+      "telegram": "https://t.me/myspace",
+      "twitter": "https://twitter.com/myspace",
+      "website": "https://myspace.network",
+      "whitepaper": "https://myspace.network/whitepaper.pdf"
+    },
+    "widget": {
+      "title": "TEST TEST TEST",
+      "description": "We're all about testing.",
+      "buttonText": "Test it",
+      "buttonUrl": "https://hypha.coop/"
+    }
+  }
+}
